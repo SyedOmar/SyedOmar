@@ -33,7 +33,7 @@ omar@uixify.com 📫
 
 ***
 <!-- User stats Iamges -->
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=SyedOmar&show_icons=true&locale=en&layout=compact" alt="SyedOmar" width="500" height="350"/> <img  src="https://github-readme-stats.vercel.app/api?username=SyedOmar&show_icons=true&locale=en" alt="SyedOmar" width="500" height="350"/><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedOmar" alt="SyedOmar" width="900" />
+<!--<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=SyedOmar&show_icons=true&locale=en&layout=compact" alt="SyedOmar" width="500" height="350"/> <img  src="https://github-readme-stats.vercel.app/api?username=SyedOmar&show_icons=true&locale=en" alt="SyedOmar" width="500" height="350"/><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedOmar" alt="SyedOmar" width="900" />-->
 <!--
 **syedd-hasan/syedd-hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
